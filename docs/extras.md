@@ -7,6 +7,8 @@ Look for the Aemulus logo in the bottom-right corner:
 
 ![](img/extras/aemulus_logo.png)
 
+Aemulus will also automatically convert any package created for **Mod Compendium**.
+
 ### Tips
 
 - A package with higher priority in Aemulus will override packages with lower priority in the event of a file conflict that can't be merged.
