@@ -78,6 +78,11 @@ Once Aemulus finishes building, you're ready to play!
 
 > You can also use any of the Reloaded-II shortcuts you created earlier.
 
+
+## One Last Tip
+
+- Save the game often and on multiple save slots. I recommend every night or every other night at the Dojima residence.
+
 ## Continue
 Head over to the [**Extras**](extras.md) section for instructions on:
 - Adding custom packages to Aemulus
