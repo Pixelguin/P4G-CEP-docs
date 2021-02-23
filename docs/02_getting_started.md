@@ -38,6 +38,8 @@ We will use a single dedicated folder named `P4G Mods` for everything related to
 - Unzip your P4G CEP download and locate the `P4G Mods` folder.
 - Move the `P4G Mods` folder to your account's `Documents` folder.
 
+> Make sure you're using your user account's `Documents` folder and not your `OneDrive\Documents` folder.
+
 ![](img/02/p4g_mods_folder.png)
 
 ## Install Prerequisites
