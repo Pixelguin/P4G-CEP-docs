@@ -25,7 +25,7 @@ We will be starting from scratch with this version of P4G CEP.
  - ***Delete*** your old `Aemulus Package Manager` folder.
  - ***Delete*** your old `Persona 4 Golden\mods` folder.
 
-## Download P4G CEP 5
+## Download P4G CEP 5.0
 
 Download the latest version of P4G CEP now if you haven't already.
 
