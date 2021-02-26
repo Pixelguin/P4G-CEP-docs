@@ -24,6 +24,8 @@ Download the upgrade package for P4G CEP now if you haven't already.
 
 * Drag all three folders at once onto the ➕ **Add Package** button in Aemulus, then release the mouse button to drop them.
 
+![](img/upgrade/add_package.png)
+
 > If you're having trouble dragging all of the folders at once, you can also drag and drop them one at a time.
 
 * Aemulus will automatically refresh the window and upgrade your packages. All you need to do now is click **Build** again.
