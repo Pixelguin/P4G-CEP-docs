@@ -1,6 +1,6 @@
 ﻿
 # P4G Community Enhancement Pack
-### [GameBanana](https://gamebanana.com/gamefiles/12882) // [Nexus Mods](https://www.nexusmods.com/persona4golden/mods/11?tab=files) // [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2234676152) // [ShrineFox.com](https://shrinefox.com/forum/viewtopic.php?f=19&t=847) // [Discord](https://discord.gg/aZkkqnw)
+### [GameBanana](https://gamebanana.com/gamefiles/12882) // [Nexus Mods](https://www.nexusmods.com/persona4golden/mods/11?tab=files) // [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2234676152) // [Amicitia](https://amicitia.github.io/post/p4g-community-enhancement-pack) // [Discord](https://discord.gg/aZkkqnw)
 
 **P4G Community Enhancement Pack (P4G CEP)** is an all-in-one collection of tools and mods for the 2020 PC release of Persona 4 Golden.
 
