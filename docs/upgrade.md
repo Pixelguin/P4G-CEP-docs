@@ -4,7 +4,7 @@
 
 Download the upgrade package for P4G CEP now if you haven't already.
 
-* [Download from **GameBanana**](https://gamebanana.com/gamefiles/13256)
+* [Download from **GameBanana**](https://gamebanana.com/gamefiles/12882)
 * [Download from **Nexus Mods**](https://www.nexusmods.com/persona4golden/mods/11?tab=files)
 
 ## Upgrade from Version 5.0
