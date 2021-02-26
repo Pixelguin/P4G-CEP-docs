@@ -29,3 +29,9 @@ Download the upgrade package for P4G CEP now if you haven't already.
 > If you're having trouble dragging all of the folders at once, you can also drag and drop them one at a time.
 
 * Aemulus will automatically refresh the window and upgrade your packages. All you need to do now is click **Build** again.
+
+### Upgrade Backup File
+
+* Open your `P4G Mods\Backups\Aemulus Package Manager` folder.
+* In your upgrade folder, open the `Backups\Aemulus Package Manager` folder.
+* Replace the **Persona4GoldenPackages.xml** file in your `P4G Mods\Backups\Aemulus Package Manager` folder with the one in your upgrade folder.
