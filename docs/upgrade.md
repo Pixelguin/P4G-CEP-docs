@@ -1,19 +1,22 @@
 ﻿# Upgrade Instructions
 
-## Download Version 5.1 Upgrade
+> To upgrade from a version older than 5.0, follow the directions in [Getting Started](https://github.com/Pixelguin/P4G-CEP-docs/blob/master/docs/02_getting_started.md).
+
+## Download Version 5.1.1 Upgrade
 
 Download the upgrade package for P4G CEP now if you haven't already.
 
-* [Download from **GameBanana**](https://gamebanana.com/gamefiles/13256)
+* [Download from **GameBanana**](https://gamebanana.com/gamefiles/12882)
 * [Download from **Nexus Mods**](https://www.nexusmods.com/persona4golden/mods/11?tab=files)
 
-## Upgrade from Version 5.0
+## Upgrade to Version 5.1.1
 
 ### Prepare for Upgrading Packages
 * Open your `P4G Mods\Tools\Aemulus Package Manager` folder and launch **Aemulus**.
-* Unzip your upgrade download and open the `Aemulus Packages` folder.
+* Look at the *Version* value of the *P4G Community Enhancement Pack* package to determine your current version of P4G CEP.
+* Unzip your upgrade download and open the appropriate `Aemulus Packages\Upgrade from [5.x]` folder.
 
-![](img/upgrade/5_1_packages.png)
+![](img/upgrade/aemulus_packages.png)
 
 ### Upgrade Packages
 
@@ -22,7 +25,7 @@ Download the upgrade package for P4G CEP now if you haven't already.
 
 ![](img/upgrade/select_all.png)
 
-* Drag all three folders at once onto the ➕ **Add Package** button in Aemulus, then release the mouse button to drop them.
+* Drag all of the folders at once onto the ➕ **Add Package** button in Aemulus, then release the mouse button to drop them.
 
 ![](img/upgrade/add_package.png)
 

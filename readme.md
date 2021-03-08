@@ -5,7 +5,7 @@
 **P4G Community Enhancement Pack (P4G CEP)** is an all-in-one collection of tools and mods for the 2020 PC release of Persona 4 Golden.
 
 ### [Installation Instructions](docs/02_getting_started.md) // [Upgrade Instructions](docs/upgrade.md)
-### [Extras](docs/extras.md) // [Troubleshooting](docs/troubleshooting.md)
+### [Extras](docs/extras.md) // [Troubleshooting](docs/troubleshooting.md) // [Credits](credits.md)
 
 ---
 
