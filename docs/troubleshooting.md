@@ -48,7 +48,7 @@ Reloaded-II keeps a file in AppData (ReloadedII.json) that tracks a single folde
 Your antivirus software probably deleted it.
 
 * Add an exception in your antivirus for your `P4G Mods\Tools\Aemulus Package Manager` folder.
-* Redownload AemulusPackageManager.exe (either redownload P4G CEP or ask on Discord).
+* Redownload AemulusPackageManager.exe (either redownload P4G CEP or ask on [Discord](https://discord.gg/aZkkqnw)).
 
 ----
 
@@ -70,6 +70,11 @@ Your antivirus software probably deleted it.
 * If you are using custom packages with Aemulus, make sure they are correctly formatted.
 * If you are using Intel integrated graphics and have RivaTuner Statistics Server running, the game will crash at launch. Wait until you reach the title screen to start RTSS.
 ----
+
+### The game softlocks during a Social Link event with Rise and I can't progress.
+* Make sure you're updated to Version 5.1.1.
+* If you're using 5.1.1 and still encountering this issue, join the [Discord server](https://discord.gg/aZkkqnw) and let us know. We know it's related to the *Inoue Bustups* mod, but we're trying to figure out what's causing the issue for different people.
+
 
 ### Cutscenes are playing slowly/being skipped entirely.
 There are a few possible fixes for this issue.
