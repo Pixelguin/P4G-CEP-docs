@@ -75,6 +75,7 @@ Your antivirus software probably deleted it.
 * Make sure you're updated to Version 5.1.1.
 * If you're using 5.1.1 and still encountering this issue, join the [Discord server](https://discord.gg/aZkkqnw) and let us know. We know it's related to the *Inoue Bustups* mod, but we're trying to figure out what's causing the issue for different people.
 
+----
 
 ### Cutscenes are playing slowly/being skipped entirely.
 There are a few possible fixes for this issue.
