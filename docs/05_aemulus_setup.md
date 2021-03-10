@@ -1,7 +1,7 @@
 ﻿# Aemulus Setup
 **Aemulus Package Manager** is an [open-source](https://github.com/TekkaGB/AemulusModManager) program that organizes, merges, and builds mod loadouts for Persona games.
 
-> P4G CEP does not use the *Mod Compendium* program. Aemulus is capable of importing and converting Mod Compendium mods; see [Extras](extras.md) for more information.
+> P4G CEP does not use the *Mod Compendium* program. Aemulus is capable of importing and converting Mod Compendium mods; see the [Extras](extras.md) section for more information.
 
 ## Information
 
