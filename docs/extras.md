@@ -7,7 +7,7 @@ Look for the Aemulus logo in the bottom-right corner:
 
 ![](img/extras/aemulus_logo.png)
 
-Aemulus will also automatically convert any package created for **Mod Compendium**.
+Aemulus will also automatically convert any package created for the **Mod Compendium** program.
 
 ### Tips
 
