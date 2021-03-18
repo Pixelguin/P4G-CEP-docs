@@ -80,6 +80,10 @@ Your antivirus software probably deleted it.
 ### Cutscenes are playing slowly/being skipped entirely.
 There are a few possible fixes for this issue.
 
+### Disable Additional Reloaded-II Programs
+* This issue most commonly occurs when Reloaded-II runs out of memory (this is unrelated to how much RAM your system has).
+* If you have installed any additional programs to Reloaded-II, such as *EXP Share*, disable them.
+
 #### Use Low Cutscene Quality
 * Launch P4G. 
 * Open Config from the main menu. 
