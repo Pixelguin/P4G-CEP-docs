@@ -2,14 +2,14 @@
 
 > To upgrade from a version older than 5.0, follow the directions in [Getting Started](https://github.com/Pixelguin/P4G-CEP-docs/blob/master/docs/02_getting_started.md).
 
-## Download Version 5.1.1 Upgrade
+## Download Version 5.1.2 Upgrade
 
-Download the **Version 5.x to 5.1.1 Upgrade** package for P4G CEP now if you haven't already.
+Download the **Version 5.x to 5.1.2 Upgrade** package for P4G CEP now if you haven't already.
 
 * [Download from **GameBanana**](https://gamebanana.com/gamefiles/12882)
 * [Download from **Nexus Mods**](https://www.nexusmods.com/persona4golden/mods/11?tab=files)
 
-## Upgrade to Version 5.1.1
+## Upgrade to Version 5.1.2
 
 ### Prepare for Upgrading Packages
 * Open your `P4G Mods\Tools\Aemulus Package Manager` folder and launch **Aemulus**.
@@ -17,6 +17,13 @@ Download the **Version 5.x to 5.1.1 Upgrade** package for P4G CEP now if you hav
 * Unzip your upgrade download and open the appropriate `Aemulus Packages\Upgrade from [5.x]` folder.
 
 ![](img/upgrade/aemulus_packages.png)
+
+### Delete Inoue Bustups
+> If you don't have Inoue Bustups installed, skip this step.
+
+The *Inoue Bustups* mod has been causing softlocks for some users, so it has been removed from P4G CEP.
+
+* Right-click **Inoue Bustups** in the Aemulus package grid and select **Delete Package**. 
 
 ### Upgrade Packages
 
