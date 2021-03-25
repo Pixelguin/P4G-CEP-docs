@@ -1,5 +1,5 @@
 # P4G Community Enhancement Pack
-### Version 5.1.1 - "Play OMORI"
+### Version 5.2 - "Heartbeat, Heartbreak"
 ### [GameBanana](https://gamebanana.com/gamefiles/12882) // [Nexus Mods](https://www.nexusmods.com/persona4golden/mods/11?tab=files) // [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2234676152) // [Amicitia](https://amicitia.github.io/post/p4g-community-enhancement-pack) // [Discord](https://discord.gg/aZkkqnw)
 
 ## P4G CEP Team
@@ -17,7 +17,7 @@
 * Cooking Cheat Sheet
 
 ### [Hellkrai](https://www.behance.net/hellkrai)
-* P4 The Animation Portraits
+* P4G CEP banner and logo
 
 ### [lipsum](https://github.com/zarroboogs)
 * Tiny Fixes
@@ -50,12 +50,15 @@
 * Ultimate Persona Compendium Registration
 * Delicate Music Tweaks
 * "The Genesis" Loop Fix
+* Corrected Battle Portraits
+* P4 Arena Ultimax Battle Portraits
 * Detailed Descriptions
 
 ### [ShrineFox](https://shrinefox.com)
 * QOL Scripts Pack
 * Quick Travel Plus
 * Mobile Calendar
+* Prologue Skip
 
 ### [Sewer56](https://github.com/Sewer56)
 * Reloaded-II - Project lead
@@ -99,10 +102,7 @@
 * Delicate Music Tweaks
 
 ### [FluffnFlight](https://twitter.com/FluffnFlight)
-* P4 Arena Ultimax Portraits
-
-### [Hellkrai](https://www.behance.net/hellkrai)
-* P4G CEP header/logo
+* P4 Arena Ultimax Battle Portraits
 
 ## Original Assets
 
