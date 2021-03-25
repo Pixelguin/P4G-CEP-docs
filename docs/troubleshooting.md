@@ -138,6 +138,7 @@ If you can get 100+ FPS, the motion blur effect will be seriously reduced.
 Don't panic! This is a nasty bug that’s related to how P4G and the Steam cloud exchange information, but **you can safely get your save data back**.
 
 #### Launch P4G Without Mods
+- Restart your computer.
 - Run P4G without any mods by launching the game directly through Steam. 
 > If your save data has reappeared, you're all done.
 
