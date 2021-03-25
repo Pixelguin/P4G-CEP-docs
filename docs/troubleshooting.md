@@ -30,7 +30,7 @@ Your antivirus software probably deleted it.
 
 ### Reloaded-II can't launch P4G.
 
-* If you're getting a "Failed to load Reloaded-II" or "Unable to initialize SteamAPI" error, make sure Steam is running before launching the game. 
+* If you're getting a "Failed to load Reloaded-II" or "Unable to initialize SteamAPI" error, make sure Steam is running. 
 * Make sure your P4G.exe path is correct. It's a common mistake to forget to include `P4G.exe` at the end of the file path.
 * Make sure you didn't put the `P4G Mods` folder in your OneDrive folder or any other location that synchronizes files with the cloud.
 
