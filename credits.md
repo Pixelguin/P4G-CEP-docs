@@ -74,7 +74,6 @@
 * QOL Scripts Pack - Project lead
 * Dojima's Coffee
 * Produce Store
-* Inoue Bustups
 * Default to Direct Commands
 * Game Over Skip
 * Reap-Balanced Encounters
