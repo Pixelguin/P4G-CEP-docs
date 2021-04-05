@@ -96,12 +96,16 @@
 ## Additional Contributions
 
 ### [14.4ml](https://soundcloud.com/144ml)
+* Delicate Music Tweaks
+
 ### [BitLemur](https://www.youtube.com/channel/UCUEkkPN21vZWE_XeyYrgTLQ/about)
-### [guest-san](https://www.youtube.com/channel/UC5wYlCzWIkIUV4434C5rCag/about)
 * Delicate Music Tweaks
 
 ### [FluffnFlight](https://twitter.com/FluffnFlight)
 * P4 Arena Ultimax Battle Portraits
+
+### [guest-san](https://www.youtube.com/channel/UC5wYlCzWIkIUV4434C5rCag/about)
+* Delicate Music Tweaks
 
 ## Original Assets
 
