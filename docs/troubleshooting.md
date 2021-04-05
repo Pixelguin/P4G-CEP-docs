@@ -79,6 +79,11 @@ Your antivirus software probably deleted it.
 
 ----
 
+### The music stops playing when I enter a battle.
+* Buy the game please :)
+
+----
+
 ### Cutscenes are playing slowly/being skipped entirely.
 There are a few possible fixes for this issue.
 
