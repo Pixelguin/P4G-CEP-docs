@@ -74,8 +74,8 @@ Your antivirus software probably deleted it.
 ----
 
 ### The game softlocks during a Social Link event with Rise and I can't progress.
-* Make sure you're updated to Version 5.1.1.
-* If you're using 5.1.1 and still encountering this issue, join the [Discord server](https://discord.gg/aZkkqnw) and let us know. We know it's related to the *Inoue Bustups* mod, but we're trying to figure out what's causing the issue for different people.
+* Make sure you're using the latest release of P4G CEP.
+* If you're using v5.1.1+ and still encountering this issue, join the [Discord server](https://discord.gg/aZkkqnw) and let us know. We know it's related to the *Inoue Bustups* mod, but we're trying to figure out what's causing the issue for different people.
 
 ----
 
