@@ -4,10 +4,9 @@
 > Reloaded-II calls the programs it manages "mods," but these are not the same as the P4G mods we are using (Texture Fixes Pack, etc.). We will set those up later with a different program.
 
 ## First Launch
-We need to run Reloaded-II as an administrator the first time it launches.
 
 - Open your `P4G Mods\Tools\Reloaded-II` folder.
-- Right-click **Reloaded-II.exe** and select **Run as administrator**.
+- Launch **Reloaded-II.exe**.
 
 ### Disable Console
 We're going to disable the console that Reloaded-II shows when running the game because it's distracting and can lower the framerate.
