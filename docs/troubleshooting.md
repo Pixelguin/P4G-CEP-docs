@@ -71,6 +71,7 @@ Your antivirus software probably deleted it.
 * Launch P4G directly through Steam to see if it works without mods.
 * If you are using custom packages with Aemulus, make sure they are correctly formatted.
 * If you are using Intel integrated graphics and have RivaTuner Statistics Server running, the game will crash at launch. Wait until you reach the title screen to start RTSS.
+* Disable any "game boost" software such as Razer Cortex and try again.
 ----
 
 ### The game softlocks during a Social Link event with Rise and I can't progress.
