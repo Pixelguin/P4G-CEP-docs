@@ -1,9 +1,10 @@
 ﻿# Extras
 ## Add Custom Packages to Aemulus
-### Compatibility
-Most **Aemulus-compatible** mods will work with P4G CEP.
 
 > The version of Aemulus currently included with P4G CEP does not support 1-click installation. This will be a feature in P4G CEP 6.0, which is in development. 
+
+### Compatibility
+Most **Aemulus-compatible** mods will work with P4G CEP.
 
 Look for the Aemulus logo in the bottom-right corner:
 
