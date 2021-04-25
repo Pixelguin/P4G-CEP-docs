@@ -80,6 +80,9 @@ Once Aemulus finishes building, you're ready to play!
 
 > You can also use any of the Reloaded-II shortcuts you created earlier.
 
+***Due to an increasing number of issues we are finding with the Prologue Skip mod, some of which result in softlocks, we are recommending all P4G CEP users not enable this feature.***
+
+***We will try to fix this in an upcoming update or remove it if we cannot find fixes for the mod's issues.***
 
 ## One Last Tip
 
