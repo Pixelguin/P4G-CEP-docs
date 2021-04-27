@@ -5,7 +5,7 @@
 - An Internet connection during setup
 - At least 3 GB of free space on your hard drive
 
-**Pirated copies of the game won't work.**
+**Pirated copies of the game *will not work*. We don't provide support for them either.**
 
 ## Show File Extensions
 By default, Windows Explorer hides the extensions (.EXE, .PNG, etc.) of many file types. It's important that these be visible when setting up mods or asking for support, so we will make sure Windows always shows file extensions for all file types.
