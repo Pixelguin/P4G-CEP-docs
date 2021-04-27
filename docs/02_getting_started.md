@@ -5,7 +5,7 @@
 - An Internet connection during setup
 - At least 3 GB of free space on your hard drive
 
-**P4G CEP Team will not provide support for illegitimate software or for any other operating systems.**
+**Pirated copies of the game won't work.**
 
 ## Show File Extensions
 By default, Windows Explorer hides the extensions (.EXE, .PNG, etc.) of many file types. It's important that these be visible when setting up mods or asking for support, so we will make sure Windows always shows file extensions for all file types.
