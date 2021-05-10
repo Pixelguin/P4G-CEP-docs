@@ -70,7 +70,7 @@ We're going to do a test launch of P4G through Reloaded-II to make sure everythi
 
 This will also create an empty  `Persona 4 Golden\mods` folder that we'll be working with in a moment.
 
-- **Close all running framerate monitor (RTSS, MSI Afterburner) or "game boost" software (Razer Cortex).**
+- **Close all running framerate monitors (RTSS, MSI Afterburner) and "game boost" software (Razer Cortex) before continuing.**
 - Under the *Main* section on the left side of the window, click **Launch Application** to launch P4G.
 - Make sure the game loads and that you can press buttons/keys on the title screen.
 
