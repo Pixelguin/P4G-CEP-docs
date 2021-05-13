@@ -72,7 +72,7 @@ Your antivirus software probably deleted it.
 * If you are using custom packages with Aemulus, make sure they are correctly formatted.
 * Check for any loose files in your `Persona 4 Golden\mods` folder.
 * If you are using Intel integrated graphics and have MSI Afterburner/RivaTuner Statistics Server running, the game will crash at launch. Wait until you reach the title screen to start RTSS.
-* Disable any "game boost" software such as Razer Cortex and try again.
+* Disable any "game boost" software (Razer Cortex, MSI Dragon Center) and try again.
 ----
 
 ### The game softlocks during a Social Link event with Rise and I can't progress.
