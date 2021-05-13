@@ -71,7 +71,7 @@ Your antivirus software probably deleted it.
 * Launch P4G directly through Steam to see if it works without mods.
 * If you are using custom packages with Aemulus, make sure they are correctly formatted.
 * Check for any loose files in your `Persona 4 Golden\mods` folder.
-* If you are using Intel integrated graphics and have MSI Afterburner/RivaTuner Statistics Server running, the game will crash at launch. Wait until you reach the title screen to start RTSS.
+* Wait until *after* the game launches to start RivaTuner Statistics Server or MSI Afterburner.
 * Disable any "game boost" software (Razer Cortex, MSI Dragon Center) and try again.
 ----
 
