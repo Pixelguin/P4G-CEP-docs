@@ -2,16 +2,18 @@
 
 > To upgrade from a version older than 5.0, follow the directions in [Getting Started](https://github.com/Pixelguin/P4G-CEP-docs/blob/master/docs/02_getting_started.md).
 
-## Download Version 5.2 Upgrade
+## Download Version 5.3 Upgrade
 
-Download the **Version 5.x to 5.2 Upgrade** package for P4G CEP now if you haven't already.
+Download the **Version 5.x to 5.3 Upgrade** package for P4G CEP now if you haven't already.
 
 * [Download from **GameBanana**](https://gamebanana.com/gamefiles/12882)
 * [Download from **Nexus Mods**](https://www.nexusmods.com/persona4golden/mods/11?tab=files)
 
-## Upgrade to Version 5.2
+## Upgrade to Version 5.3
 
 ### Verify Game Files
+
+> If you are upgrading from **P4G CEP 5.2**, you can skip this step.
 
 We need to download a clean copy of **data_e.cpk** from the Steam servers.
 
@@ -32,7 +34,7 @@ We need to download a clean copy of **data_e.cpk** from the Steam servers.
 
 > If you don't have any custom packages, skip this step.
 
-Version 5.2 completely replaces the `Aemulus Package Manager` folder, so you will need to temporarily back up any custom packages that are not part of P4G CEP.
+Version 5.3 completely replaces the `Aemulus Package Manager` folder, so you will need to temporarily back up any custom packages that are not part of P4G CEP.
 
 * Open your `P4G Mods\Tools\Aemulus Package Manager\Packages\Persona 4 Golden` folder.
 * Move any custom packages you have into your `P4G Mods\Backups` folder.
