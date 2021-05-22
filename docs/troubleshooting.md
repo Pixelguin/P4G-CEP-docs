@@ -75,6 +75,13 @@ Your antivirus software probably deleted it.
 * Disable any "game boost" software (Razer Cortex, MSI Dragon Center) and try again.
 ----
 
+### The game crashes during the first battle after awakening Izanagi.
+
+* Play without mods (launch directly from Steam) until you finish the tutorial battles.
+* Save and close the game. You should now be able to play the game modded without any more crashes.
+
+----
+
 ### The game softlocks during a Social Link event with Rise and I can't progress.
 * Make sure you're using the latest release of P4G CEP.
 * If you're using v5.1.1+ and still encountering this issue, join the [Discord server](https://discord.gg/aZkkqnw) and let us know. We know it's related to the *Inoue Bustups* mod, but we're trying to figure out what's causing the issue for different people.
