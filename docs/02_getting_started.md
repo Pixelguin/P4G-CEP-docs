@@ -49,7 +49,7 @@ Aemulus Package Manager is an [open-source](https://github.com/TekkaGB/AemulusMo
 - In your P4G CEP download, locate the `Aemulus` folder.
 - Move the `Aemulus` folder to your account's `Documents` directory.
 
-> If you are using **P3F CEP** and already have an `Aemulus` folder, Windows will ask you to merge the two folders. Select **Yes**.
+> If you are using **P3F CEP** and already have an `Aemulus` folder, Windows will ask you to merge the two folders. Select **Yes**. You will need to set up your file paths again for P3F.
 
 ## Install Prerequisites
 > If you've used P4G CEP **3.4** or newer before, you already have these installed and can skip this step.
