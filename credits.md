@@ -69,7 +69,7 @@
 * Prologue Skip
 
 ### [Sewer56](https://github.com/Sewer56)
-* Reloaded-II - Project lead
+* Reloaded II - Project lead
 
 ### [Sierrai17](https://gamebanana.com/members/1749229)
 * Culprit Boss AI Fix
