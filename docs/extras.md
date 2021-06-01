@@ -39,21 +39,21 @@ Mods that don't support 1-click installation need to be manually installed.
 
 ## Create Steam Shortcut
 
-You can create a shortcut in Steam that calls Reloaded-II to launch P4G and inject mods. This is necessary if you want to launch the game through Steam's Big Picture mode.
+You can create a shortcut in Steam that calls Reloaded II to launch P4G and inject mods. This is necessary if you want to launch the game through Steam's Big Picture mode.
 
-### Add Reloaded-II Shortcut to Steam
+### Add Reloaded II Shortcut to Steam
 - Open Steam. At the top of the Steam window, select **Games** and click **Add a Non-Steam Game to My Library...** to open the *Add a Game* window.
 - In the *Add a Game* window, click **Browse...**
-- In the file manager window that opens, navigate to your `P4G Mods\Tools\Reloaded-II` folder and select **Reloaded-II.exe**.
-- Click **Open**, then **Add Selected Programs** in the *Add a Game* window to add Reloaded-II to your Steam library.
+- In the file manager window that opens, navigate to your `P4G Mods\.Reloaded II` folder and select **Reloaded-II.exe**.
+- Click **Open**, then **Add Selected Programs** in the *Add a Game* window to add Reloaded II to your Steam library.
 
 ### Configure Shortcut for P4G
-- Right-click **Reloaded-II** in your Steam library and select **Properties** to open the *Properties* window.
+- Right-click **Reloaded II** in your Steam library and select **Properties** to open the *Properties* window.
 - In the **Launch Options** section, type `--launch "C:\Program Files (x86)\Steam\steamapps\common\Persona 4 Golden\P4G.exe"`.
 
 > Replace the path to **P4G.exe** with your own file path if you do not have P4G installed in this location. Make sure to keep the quotation marks on both sides!
 
-- Close the *Properties* window. You now have a shortcut to launch P4G with mods that works the same way as clicking *Launch Application* in Reloaded-II or clicking *Launch* in Aemulus.
+- Close the *Properties* window. You now have a shortcut to launch P4G with mods that works the same way as clicking *Launch Application* in Reloaded II or clicking *Launch* in Aemulus.
 
 ## Install High Quality Japanese Audio
 The Japanese voice line files that P4G ships with are very compressed. Mod creator Bakemono has ported high-quality Japanese audio files from the PS Vita version of P4G, and they can be downloaded separately.
