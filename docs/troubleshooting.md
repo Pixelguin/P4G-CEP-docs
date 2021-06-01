@@ -6,31 +6,25 @@ The fastest way to get support is on [**Discord**](https://discord.gg/aZkkqnw).
 ---
 
 
-## Reloaded-II
+## Reloaded II
 
 ### I can't find Reloaded-II.exe.
 Your antivirus software probably deleted it.
 
-* Add an exception in your antivirus for your `P4G Mods\Tools\Reloaded-II` folder.
+* Add an exception in your antivirus for your `P4G Mods\.Reloaded II` folder.
 * Redownload Reloaded-II.exe (either redownload P4G CEP or ask on Discord).
 
 ----
 
-### Reloaded-II won't launch.
-
-* You need to run Reloaded-II as an administrator the first time.
-* If you're getting an "unauthorized operation" error, add an exception in your antivirus for your **Reloaded-II** folder.
-----
-
 ### Reloaded-II is asking me to download and install .NET/Visual C++ Redist.
 
-* Either follow the directions Reloaded-II gives you or run **Install_Prerequisites.exe** in your `P4G Mods\Setup` folder.
+* Either follow the directions Reloaded II gives you or run **Install_Prerequisites.exe** in your `P4G Mods\Setup` folder.
 
 ----
 
 ### Reloaded-II can't launch P4G.
 
-* If you're getting a "Failed to load Reloaded-II" or "Unable to initialize SteamAPI" error, make sure Steam is running. 
+* If you're getting a "Failed to load Reloaded II" or "Unable to initialize SteamAPI" error, make sure Steam is running. 
 * Make sure your P4G.exe path is correct. It's a common mistake to forget to include `P4G.exe` at the end of the file path.
 * Make sure you didn't put the `P4G Mods` folder in your OneDrive folder or any other location that synchronizes files with the cloud.
 
@@ -38,13 +32,13 @@ Your antivirus software probably deleted it.
 
 ### Reloaded-II isn't reading the right Apps/Mods folders.
 
-Reloaded-II keeps a file in AppData (ReloadedII.json) that tracks a single folder each for Apps, Mods, and Plugins. This is necessary for its functionality, but it means **you can only have one Reloaded-II folder on your computer**.
+Reloaded II keeps a file in AppData (ReloadedII.json) that tracks a single folder each for Apps, Mods, and Plugins. This is necessary for its functionality, but it means **you can only have one Reloaded-II folder on your computer**.
 
-* To reset Reloaded-II's folder paths, delete every Reloaded-II folder on your computer except the one you want to keep, then launch the remaining **Reloaded-II.exe**.
+* To reset Reloaded II's folder paths, delete every Reloaded II folder on your computer except the one you want to keep, then launch the remaining **Reloaded-II.exe**.
 
 ----
 
-## Aemulus Package Manager
+## Aemulus
 
 ### I can't find AemulusPackageManager.exe.
 Your antivirus software probably deleted it.
@@ -56,11 +50,7 @@ Your antivirus software probably deleted it.
 
 ### I want to reset the order of my packages.
 
-* Open your `P4G Mods\Backups\Aemulus Package Manager` folder.
-* In another window, open your `P4G Mods\Tools\Aemulus Package Manager\Config` folder.
-* Copy and ***override*** the **Persona4GoldenPackages.xml** file from the `Backups` folder into the `Config` folder.
-
-> Any custom packages that aren't part of P4G CEP will be moved to the bottom of the grid.
+We're working on a new way to do this. For now, ask on Discord and we'll help you out.
 
 ----
 

@@ -1,17 +1,17 @@
-﻿# Reloaded-II Setup
-**Reloaded-II** is an [open-source](https://github.com/Reloaded-Project/Reloaded-II/) program that injects our mods into P4G with the **P4G PC Mod Loader** program.
+﻿# Reloaded II Setup
+**Reloaded II** is an [open-source](https://github.com/Reloaded-Project/Reloaded-II/) program that injects our mods into P4G with the **P4G PC Mod Loader** program.
 
-> Reloaded-II calls the programs it manages "mods," but these are not the same as the P4G mods we are using (Texture Fixes Pack, etc.). We will set those up later with a different program.
+> Reloaded II calls the programs it manages "mods," but these are not the same as the P4G mods we are using (Texture Fixes Pack, etc.). We will set those up later with a different program.
 
 ## First Launch
 
-- Open your `P4G Mods\Tools\Reloaded-II` folder.
+- Open your `P4G Mods\.Reloaded II` folder.
 - Launch **Reloaded-II.exe**.
 
 ### Disable Console
-We're going to disable the console that Reloaded-II shows when running the game because it's distracting and can lower the framerate.
+We're going to disable the console that Reloaded II shows when running the game because it's distracting and can lower the framerate.
 
-- After closing the first launch popup, disable **Show Console** by changing the red plus to a grey minus.
+- After closing the first launch popup, click **Reloaded Settings** and disable **Show Console** by changing the red plus to a grey minus.
 
 ![](img/04/disable_console.png)
 
@@ -38,7 +38,7 @@ We're going to disable the console that Reloaded-II shows when running the game 
 - When you are done, select **Save** and close the *Configure Mod* window.
 
 ### Set P4G.exe Path
-By default, Reloaded-II will search for *P4G.exe* at the most common location:
+By default, Reloaded II will search for *P4G.exe* at the most common location:
 
 `C:\Program Files (x86)\Steam\steamapps\Persona 4 Golden\P4G.exe`
 
@@ -57,7 +57,7 @@ If you have P4G installed somewhere else, you'll need to tell Reloaded-II where 
 ![](img/04/executable_location.png)
 
 ## Create Desktop Shortcut
-Reloaded-II has to be called to inject mods into P4G. Just running the game through Steam will *not* inject any mods.
+Reloaded II has to be called to inject mods into P4G. Just running the game through Steam will *not* inject any mods.
 
 If you would like to create a desktop shortcut to launch P4G and inject mods, click **Create Shortcut** under the *Actions* section on the left side of the window.
 
@@ -66,7 +66,7 @@ If you would like to create a desktop shortcut to launch P4G and inject mods, cl
 > If you would like to create a Steam shortcut to launch the game and inject mods, refer to the **Extras** section of the instructions.
 
 ## Test Run
-We're going to do a test launch of P4G through Reloaded-II to make sure everything works.
+We're going to do a test launch of P4G through Reloaded II to make sure everything works.
 
 This will also create an empty  `Persona 4 Golden\mods` folder that we'll be working with in a moment.
 

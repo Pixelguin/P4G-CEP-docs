@@ -11,15 +11,15 @@ The big list in the Aemulus window is called the **grid**.
 
 Each individual entry on the grid is a **package**, a collection of loose files that Aemulus needs to **build** before it becomes a working mod in P4G.
 
-When you tell Aemulus to build a mod loadout, it merges all the packages you have enabled into one set of files and saves them to your `Persona 4 Golden\mods` folder. The mod loader in Reloaded-II then uses that folder to swap in modded files when you launch the game.
+When you tell Aemulus to build a mod loadout, it merges all the packages you have enabled into one set of files and saves them to your `Persona 4 Golden\mods` folder. The mod loader in Reloaded II then uses that folder to swap in modded files when you launch the game.
 
 ## Configure Aemulus
 Aemulus needs a bit of setup before we can dive into customization.
 
 ### First Launch
-- Open your `P4G Mods\Tools\Aemulus Package Manager` folder.
+- Open your `Aemulus` folder.
 - Launch **AemulusPackageManager.exe**.
-- Make sure the box in the top left says *Persona 4 Golden*.
+- Click the box in the top left of the window and select **Persona 4 Golden**.
 - Click the ⚙️ **Config** button to open the *Config* window.
 
 ### Set File Paths
@@ -28,12 +28,14 @@ Aemulus needs to know the location of your `Persona 4 Golden\mods` folder, *P4G.
  - Click **Browse** to the right of each box in the *Config* window and select the following files/folders:
     - *Output Folder:* `Persona 4 Golden\mods` folder
     - *P4G.exe Path:* `Persona 4 Golden\P4G.exe`
-    - *Reloaded-II.exe Path:* `P4G Mods\Tools\Reloaded-II\Reloaded-II.exe`
+    - *Reloaded-II.exe Path:* `P4G Mods\.Reloaded II\Reloaded-II.exe`
 
 ![](img/05/file_paths.png)
 
 ### Double-Check Checkboxes
-- Make sure the **Empty SND Folder** and **Use CPK Structure** boxes are both checked.
+- Make sure the **Empty SND Folder,** **Use CPK Structure,** and **Delete Old Versions** boxes are both checked.
+
+> Check **Enable Mod Updates** and **Update All on Refresh** if you would like to get automatic updates in a future release.
 
 ### Unpack Base Files
 Aemulus needs to unpack the archives from P4G's data into a folder named `Original` so it can merge packages together.
@@ -57,8 +59,8 @@ Now for the fun part! Choose which mods you'd like to use in P4G.
 Make sure *only one* of each of these is enabled:
  - *Controller UI Overhaul*: Modern **or** Retro
  - *Useful Calendar*: Spoiler-Free **or** With Spoilers
- - *Portraits*: Combined Portraits Pack **or** P4 Arena Ultimax Portraits **or** P4 The Animation Portraits
- - *Font*: P5 Strikers Font **or** Slim Font
+ - *Battle Portraits*: P4 Arena Ultimax Portraits **or** P4 The Animation Portraits (P4 Arena Ultimax Follow-Up Portraits can be used with either one)
+ - *Font*: Slim Font **or** P5 Strikers Font
 
 ## Build Your Loadout
 Aemulus needs to build your loadout in the `Persona 4 Golden\mods` folder once you've finished customizing it.
@@ -76,13 +78,9 @@ Aemulus needs to build your loadout in the `Persona 4 Golden\mods` folder once y
 Once Aemulus finishes building, you're ready to play!
 
 - Click **OK** to close the *Finished Building!* window.
-- Click 🚀 **Launch Persona 4 Golden** to call Reloaded-II and launch P4G.
+- Click 🚀 **Launch Persona 4 Golden** to call Reloaded II and launch P4G.
 
-> You can also use any of the Reloaded-II shortcuts you created earlier.
-
-***Due to an increasing number of issues we are finding with the Prologue Skip mod, some of which result in softlocks, we are recommending all P4G CEP users not enable this feature.***
-
-***We will try to fix this in an upcoming update or remove it if we cannot find fixes for the mod's issues.***
+> You can also use any of the Reloaded II shortcuts you created earlier.
 
 ## One Last Tip
 

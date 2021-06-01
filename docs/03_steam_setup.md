@@ -87,5 +87,5 @@ The P4G mod loader and the *Special K* software are incompatible, and the game i
     - Trying to open the Special K configuration menu (*Ctrl + Shift + Backspace*) should do nothing now.
 
 ## Continue
-### Next: [Reloaded-II Setup](04_reloaded_ii_setup.md)
+### Next: [Reloaded II Setup](04_reloaded_ii_setup.md)
 ### [Extras](extras.md) // [**Troubleshooting**](troubleshooting.md)

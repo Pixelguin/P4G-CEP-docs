@@ -21,9 +21,8 @@ By default, Windows Explorer hides the extensions (.EXE, .PNG, etc.) of many fil
 
 We will be starting from scratch with this version of P4G CEP.
 
- - ***Delete*** your old `Reloaded-II` folder.
- - ***Delete*** your old `Aemulus Package Manager` folder.
- - ***Delete*** your old `Persona 4 Golden\mods` folder.
+- (P4G CEP 5.x) ***Delete*** your old `P4G Mods` folder in your `Documents` directory.
+- (P4G CEP 4.x and older) ***Delete*** your old `Reloaded-II`, `Aemulus Package Manager`, and `Persona 4 Golden\mods` folders.
 
 ## Download P4G CEP
 
@@ -33,7 +32,7 @@ Download the latest version of P4G CEP now if you haven't already.
 - [Download from **Nexus Mods**](https://www.nexusmods.com/persona4golden/mods/11?tab=files)
 
 ## Set Up P4G Mods Folder
-We will use a single dedicated folder named `P4G Mods` for everything related to P4G modding. It will contain all of the tools used to mod the game, as well as all of your mods. If you ever need to create a file backup or write down a note, save it in this folder to stay organized.
+We will use a single dedicated folder named `P4G Mods` for everything related to P4G modding. It will contain all of the tools used to mod the game. If you ever need to create a file backup or write down a note, save it in this folder to stay organized.
 
 - Unzip your P4G CEP download and locate the `P4G Mods` folder.
 - Move the `P4G Mods` folder to your account's `Documents` folder.
@@ -41,6 +40,16 @@ We will use a single dedicated folder named `P4G Mods` for everything related to
 > Make sure you're using your user account's `Documents` folder and not your `OneDrive\Documents` folder.
 
 ![](img/02/p4g_mods_folder.png)
+
+## Set Up Aemulus Folder
+Aemulus Package Manager is an [open-source](https://github.com/TekkaGB/AemulusModManager) program that organizes, merges, and builds mod loadouts for Persona games.
+
+**P4G CEP** and **P3F CEP** now use a unified folder for Aemulus.
+
+- In your P4G CEP download, locate the `Aemulus` folder.
+- Move the `Aemulus` folder to your account's `Documents` directory.
+
+> If you are using **P3F CEP** and already have an `Aemulus` folder, Windows will ask you to merge the two folders. Select **Yes**.
 
 ## Install Prerequisites
 > If you've used P4G CEP **3.4** or newer before, you already have these installed and can skip this step.
