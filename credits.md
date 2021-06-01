@@ -1,6 +1,6 @@
 # P4G Community Enhancement Pack
-### Version 5.3 - "Long Way"
-### [GameBanana](https://gamebanana.com/gamefiles/12882) // [Nexus Mods](https://www.nexusmods.com/persona4golden/mods/11?tab=files) // [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2234676152) // [Amicitia](https://amicitia.github.io/post/p4g-community-enhancement-pack) // [Discord](https://discord.gg/aZkkqnw)
+### Version 6.0 - "Your Affection"
+### [GameBanana](https://gamebanana.com/mods/50961) // [Nexus Mods](https://www.nexusmods.com/persona4golden/mods/11?tab=files) // [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2234676152) // [Amicitia](https://amicitia.github.io/post/p4g-community-enhancement-pack) // [Discord](https://discord.gg/aZkkqnw)
 
 ## P4G CEP Team
 
@@ -9,6 +9,7 @@
 * Remove Lunchtime Invitations
 * Stop Wasting Time on Social Links at Night
 * Find a Friend
+* Remove Events
 
 ### [Bakemono](https://steamcommunity.com/id/bakemono)
 * High Quality Japanese Audio
@@ -24,6 +25,9 @@
 * Title Screen Fix
 * P4 Opening Movie
 * Skip Opening Movie
+
+### [Luxen](https://gamebanana.com/members/1638422)
+* P4 Arena Ultimax Follow-Up Portraits
 
 ### [Pioziomgames](https://gamebanana.com/members/1757842)
 * Igor Blinks
@@ -96,6 +100,9 @@
 
 ### [Tupelov](https://gamebanana.com/members/1739633)
 * QOL Scripts Pack
+
+### [wxnder](https://gamebanana.com/members/1738696)
+* P4AU Follow-Up Portraits
 
 ## Additional Contributions
 
