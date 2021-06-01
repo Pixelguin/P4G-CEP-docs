@@ -1,8 +1,6 @@
 ﻿# Extras
 ## Add Custom Packages to Aemulus
 
-> The version of Aemulus currently included with P4G CEP does not support 1-click installation. This will be a feature in P4G CEP 6.0, which is in development. 
-
 ### Compatibility
 Most **Aemulus-compatible** mods will work with P4G CEP.
 
@@ -17,7 +15,12 @@ Aemulus will also automatically convert any package created for the **Mod Compen
 - A package with higher priority in Aemulus will override packages with lower priority in the event of a file conflict that can't be merged.
 - A mod labelled **Work in Progress** (traffic cone on GameBanana) is incomplete and will have unexpected behavior.
 
-### Installation
+### 1-Click Installation
+Many mods on GameBanana support **1-click installation** with Aemulus. Just click the **Aemulus Package Manager** button on the mod page to automatically download and install the mod.
+
+### Manual Installation
+Mods that don't support 1-click installation need to be manually installed.
+
 #### Locate Package Folder
 - Download the mod you would like to add to P4G CEP.
 - Unzip the downloaded mod and locate the **package folder**. The package folder has a file in it named **Package.xml**.
@@ -29,7 +32,7 @@ Aemulus will also automatically convert any package created for the **Mod Compen
 
 > You can also manually add the package folder to your `P4G Mods\Tools\Aemulus Package Manager\Packages\Persona 4 Golden` folder.
 
-#### Organize and Enable
+### Organize and Enable
 - You can drag packages in Aemulus to organize them and change their build priority.
 - Once you've decided on a position, **enable** the package by checking its box.
 - Make sure to click 🔨 **Build**  when you're all done!
