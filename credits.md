@@ -69,7 +69,9 @@
 * Prologue Skip
 
 ### [Sewer56](https://github.com/Sewer56)
-* Reloaded II + Reloaded.Hooks + Steam Hook - Project lead
+* Reloaded II - Project lead
+* Reloaded.Hooks
+* Steam Hook
 
 ### [Sierrai17](https://gamebanana.com/members/1749229)
 * Culprit Boss AI Fix
