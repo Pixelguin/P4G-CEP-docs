@@ -27,6 +27,7 @@ Once you install v6.1, you'll have the ability to get **automatic upgrades** in 
 ![](img/upgrade/select_upgrade.png)
 
 - Aemulus will automatically download and upgrade P4G CEP for you. Future upgrades will be automatic as well!
+- Make sure to customize and build your packages again after the installation finishes!
 
 ### Manual Upgrade
 
@@ -45,6 +46,7 @@ Once you install v6.1, you'll have the ability to get **automatic upgrades** in 
 ![](img/upgrade/select_upgrade.png)
 
 - Aemulus will automatically download and upgrade P4G CEP for you.
+- Make sure to customize and build your packages again after the installation finishes!
 
 > It's recommended that you check the **Enable Mod Updates** and **Update All on Refresh** options in the Aemulus Config window, so you can upgrade P4G CEP from entirely within Aemulus in the future.
 
