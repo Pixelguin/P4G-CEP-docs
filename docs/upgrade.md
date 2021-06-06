@@ -20,11 +20,11 @@ Once you install v6.1, you'll have the ability to get **automatic upgrades** in 
 
 > Make sure you are using **Aemulus 5.1.4+** before upgrading! Any older version will NOT install the upgrade properly!
 
-![](img/update_prompt.png)
+![](img/upgrade/update_prompt.png)
 
 - If this window appears, select **p4g-cep_6_1_upgrade.7z**.
 
-![](img/select_upgrade.png)
+![](img/upgrade/select_upgrade.png)
 
 - Aemulus will automatically download and upgrade P4G CEP for you. Future upgrades will be automatic as well!
 
@@ -34,15 +34,15 @@ Once you install v6.1, you'll have the ability to get **automatic upgrades** in 
 - Open the [GameBanana page](https://gamebanana.com/mods/50961) for P4G CEP.
 - Scroll down to the *Files* section and click the **1-Click Install** option for the **6.0 to 6.1 Upgrade**.
 
-![](img/1_click.png)
+![](img/upgrade/1_click.png)
 
 - Aemulus will launch and prompt you to download and install the upgrade. Select **Yes**.
 
-![](img/manual_prompt.png)
+![](img/upgrade/manual_prompt.png)
 
 - If this window appears, select **p4g-cep_6_1_upgrade.7z**.
 
-![](img/select_upgrade.png)
+![](img/upgrade/select_upgrade.png)
 
 - Aemulus will automatically download and upgrade P4G CEP for you.
 
