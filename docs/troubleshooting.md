@@ -16,13 +16,13 @@ Your antivirus software probably deleted it.
 
 ----
 
-### Reloaded-II is asking me to download and install .NET/Visual C++ Redist.
+### Reloaded II is asking me to download and install .NET/Visual C++ Redist.
 
 * Either follow the directions Reloaded II gives you or run **Install_Prerequisites.exe** in your `P4G Mods\Setup` folder.
 
 ----
 
-### Reloaded-II can't launch P4G.
+### Reloaded II can't launch P4G.
 
 * If you're getting a "Failed to load Reloaded II" or "Unable to initialize SteamAPI" error, make sure Steam is running. 
 * Make sure your P4G.exe path is correct. It's a common mistake to forget to include `P4G.exe` at the end of the file path.
@@ -30,9 +30,9 @@ Your antivirus software probably deleted it.
 
 ----
 
-### Reloaded-II isn't reading the right Apps/Mods folders.
+### Reloaded II isn't reading the right Apps/Mods folders.
 
-Reloaded II keeps a file in AppData (ReloadedII.json) that tracks a single folder each for Apps, Mods, and Plugins. This is necessary for its functionality, but it means **you can only have one Reloaded-II folder on your computer**.
+Reloaded II keeps a file in AppData (ReloadedII.json) that tracks a single folder each for Apps, Mods, and Plugins. This is necessary for its functionality, but it means **you can only have one Reloaded II folder on your computer**.
 
 * To reset Reloaded II's folder paths, delete every Reloaded II folder on your computer except the one you want to keep, then launch the remaining **Reloaded-II.exe**.
 
@@ -86,9 +86,9 @@ We're working on a new way to do this. For now, ask on Discord and we'll help yo
 ### Cutscenes are playing slowly/being skipped entirely.
 There are a few possible fixes for this issue.
 
-#### Disable Additional Reloaded-II Programs
-This issue most commonly occurs when Reloaded-II runs out of memory (this is unrelated to how much RAM your system has).
-* Disable any additional programs you have added to your Reloaded-II folder, such as *EXP Share*.
+#### Disable Additional Reloaded II Programs
+This issue most commonly occurs when Reloaded II runs out of memory (this is unrelated to how much RAM your system has).
+* Disable any additional programs you have added to your Reloaded II folder, such as *EXP Share*.
  
 #### Use Low Cutscene Quality
 * Launch P4G. 
