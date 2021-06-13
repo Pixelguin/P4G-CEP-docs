@@ -6,9 +6,9 @@ Please note that after upgrading, the package grid will be reset to default.
 
 Any custom packages you have installed will be disabled and moved to the bottom of the grid, but not deleted.
 
-## Upgrading from v6.0
+## Upgrading from v6.x
 
-Once you install the latest upgrade, you'll have the ability to get **automatic upgrades** in the future!
+If you're upgrading from v6.0, you'll have the ability to get **automatic upgrades** in the future!
 
 - If you have *Enable Mod Updates* and *Update All on Refresh* enabled in Aemulus, follow the **Automatic Upgrade** instructions.
 - Otherwise, follow the **Manual Upgrade** Instructions.
