@@ -2,7 +2,7 @@
 
 ### An Internet connection is required.
 
-Please note that after upgrading, the package grid will be reset to default. 
+Please note that after upgrading, the package grid order will be reset to default. 
 
 Any custom packages you have installed will be disabled and moved to the bottom of the grid, but not deleted.
 
