@@ -8,7 +8,7 @@ Any custom packages you have installed will be disabled and moved to the bottom 
 
 ## Upgrading from v6.0
 
-Once you install v6.1, you'll have the ability to get **automatic upgrades** in the future!
+Once you install the latest upgrade, you'll have the ability to get **automatic upgrades** in the future!
 
 - If you have *Enable Mod Updates* and *Update All on Refresh* enabled in Aemulus, follow the **Automatic Upgrade** instructions.
 - Otherwise, follow the **Manual Upgrade** Instructions.
@@ -16,15 +16,11 @@ Once you install v6.1, you'll have the ability to get **automatic upgrades** in 
 ### Automatic Upgrade
 
 - Launch Aemulus. If you get a prompt to upgrade the program, click **Yes** and wait for Aemulus to update.
-- After Aemulus restarts, it will automatically prompt you to download P4G CEP 6.1. Select **Yes**.
+- After Aemulus restarts, it will automatically prompt you to download the latest version of P4G CEP. Select **Yes**.
 
-> Make sure you are using **Aemulus 5.1.4+** before upgrading! Any older version will NOT install the upgrade properly!
+> Make sure you are using **Aemulus 5.1.5+** before upgrading! Any older version will NOT install the upgrade properly!
 
 ![](img/upgrade/update_prompt.png)
-
-- If this window appears, select **p4g-cep_6_1_upgrade.7z**.
-
-![](img/upgrade/select_upgrade.png)
 
 - Aemulus will automatically download and upgrade P4G CEP for you. Future upgrades will be automatic as well!
 - Make sure to customize and build your packages again after the installation finishes!
@@ -33,17 +29,13 @@ Once you install v6.1, you'll have the ability to get **automatic upgrades** in 
 
 - Launch Aemulus. If you get a prompt to upgrade the program, click **Yes** and wait for Aemulus to update.
 - Open the [GameBanana page](https://gamebanana.com/mods/50961) for P4G CEP.
-- Scroll down to the *Files* section and click the **1-Click Install** option for the **6.0 to 6.1 Upgrade**.
+- Scroll down to the *Files* section and click the **1-Click Install** option for the **6.x Upgrade**.
 
 ![](img/upgrade/1_click.png)
 
 - Aemulus will launch and prompt you to download and install the upgrade. Select **Yes**.
 
 ![](img/upgrade/manual_prompt.png)
-
-- If this window appears, select **p4g-cep_6_1_upgrade.7z**.
-
-![](img/upgrade/select_upgrade.png)
 
 - Aemulus will automatically download and upgrade P4G CEP for you.
 - Make sure to customize and build your packages again after the installation finishes!
