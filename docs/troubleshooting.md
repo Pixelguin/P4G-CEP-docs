@@ -144,7 +144,7 @@ Don't panic! This is a nasty bug that’s related to how P4G and the Steam cloud
 
 #### Launch P4G Without Mods
 - Restart your computer.
-- Run P4G without any mods by launching the game directly through Steam. 
+- Run P4G without any mods by launching the game directly through Steam. **Make sure you are not in offline mode!**
 > If your save data has reappeared, you're all done.
 
 #### Get Steam ID
