@@ -1,13 +1,15 @@
 # P4G Community Enhancement Pack
-### Version 6.1 - "Day After Day"
+### Version 6.1.2 - "Day After Day"
 ### [GameBanana](https://gamebanana.com/mods/50961) // [Nexus Mods](https://www.nexusmods.com/persona4golden/mods/11?tab=files) // [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2234676152) // [Amicitia](https://amicitia.github.io/post/p4g-community-enhancement-pack) // [Discord](https://discord.gg/aZkkqnw)
 
 ## P4G CEP Team
 
 ### [AnimatedSwine37](https://gamebanana.com/members/1742760)
 * Hyperspeed Reading+
+* Crane Game Rebalanced
 * Remove Lunchtime Invitations
 * Stop Wasting Time on Social Links at Night
+* Better Quizzes
 * Find a Friend
 * Remove Events
 
@@ -44,15 +46,16 @@
 * P5 Strikers Font
 * Slim Font
 * Controller UI Overhaul
-* Colorful Skills
+* Colorful Skills+ - Project lead
 * Blue Aeon Arcana
 * Config Clarity
 * Personamation Plus
 
 ### [rudiger__gb](https://linktr.ee/rudiger_mods)
 * Texture Fixes Pack
-* Max Knowledge Bonus When Studying
-* Always Great Blessing
+* Detailed Descriptions
+* Max Knowledge Bonus (Studying)
+* Always Great Shrine Blessing
 * Useful Calendar
 * 5th Dungeon Key Prompt
 * Ultimate Persona Compendium Registration
@@ -60,7 +63,7 @@
 * "The Genesis" Loop Fix
 * Corrected Battle Portraits
 * P4 Arena Ultimax Battle Portraits
-* Detailed Descriptions
+* Colorful Skills+
 
 ### [ShrineFox](https://shrinefox.com)
 * QOL Scripts Pack
